@@ -1,0 +1,42 @@
+.P1 {
+    background-color: #253C84;
+    background-size: cover;
+    margin-top: 0;
+    height: calc(100vh - 120px);   
+    width: 1580px;
+    height: 600px;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/bj.jpg");
+    background-size: cover;
+}
+
+
+p{
+    color: #EAEAEA;
+    font-size: 2em;
+    padding-top: 25px;
+    margin-top: 0px;
+}
+
+.b2{
+    color: #EAEAEA;
+    font-size: 1em;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.b3{
+    color: #EAEAEA;
+    font-size: 1em;
+    padding: left 50px;
+  
+}
+img{
+    width: 1580px;
+    height: 1030px;
+}
